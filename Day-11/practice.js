@@ -31,8 +31,8 @@ s
 
 // **- do While Loop
 
-- In do-while loop, the condition will be inside do block.
-- Even if the condition is false, it will execude the code for 1 time.
+// - In do-while loop, the condition will be inside do block.
+// - Even if the condition is false, it will execude the code for 1 time.
 
 let num = 0;
 
